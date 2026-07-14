@@ -1,0 +1,9 @@
+# 忽略 VS 的缓存与个人配置
+.vs/
+*.csproj.user
+*.suo
+*.user
+
+# 忽略编译生成物
+bin/
+obj/
